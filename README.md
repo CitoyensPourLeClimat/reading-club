@@ -29,25 +29,6 @@ scientifique. Tout le monde peut assister aux séances.
 - Créer des liens avec des chercheurs actifs dans les domaines de nos actions
   qui seraient intéressés pour guider davantage notre discours.
 
-## Informations pratiques
-
-### Assister sur place
-
-Le club de lecture est organisé à la Maison de la Vie Associative et Citoyenne
-du 13e arrondissement, situé à l'adresse suivante :
-
-**Maison de la Vie Associative et Citoyenne du 13e**  
-*11 rue Caillaux*  
-*75013 Paris*  
-*France*
-
-[![](img/mvac.png)](https://goo.gl/maps/PgTRFHvsoxpsmzsT7)
-
-### Assister à distance
-
-Il est possible d'assister au club de lecture à distance sur Google Meet.
-**TODO: mettre le lien du salon**
-
 ## Planning
 
 ### Mercredi 15 janvier 2020
@@ -97,4 +78,21 @@ Policies](http://faere.fr/pub/PolicyPapers/Douenne_Fabre_FAERE_PP2019.06.pdf)
 > partisan cues as in the US, suggesting that better access to science could
 > foster support for the ecology.
 
+## Informations pratiques
 
+### Assister à distance
+
+Il est possible d'assister au club de lecture à distance sur Google Meet.
+**TODO: mettre le lien du salon**
+
+### Assister sur place
+
+Le club de lecture est organisé à la Maison de la Vie Associative et Citoyenne
+du 13e arrondissement, situé à l'adresse suivante :
+
+**Maison de la Vie Associative et Citoyenne du 13e**  
+*11 rue Caillaux*  
+*75013 Paris*  
+*France*
+
+[![](img/mvac.png)](https://goo.gl/maps/PgTRFHvsoxpsmzsT7)
