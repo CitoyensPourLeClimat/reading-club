@@ -82,8 +82,8 @@ Policies](http://faere.fr/pub/PolicyPapers/Douenne_Fabre_FAERE_PP2019.06.pdf)
 
 ### Assister à distance
 
-Il est possible d'assister au club de lecture à distance sur Google Meet.
-**TODO: mettre le lien du salon**
+Il est possible d'assister au club de lecture à distance sur Google Meet, à
+l'adresse suivante : <https://meet.google.com/xcx-dajj-ybx>.
 
 ### Assister sur place
 
