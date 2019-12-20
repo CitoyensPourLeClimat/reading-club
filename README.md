@@ -41,8 +41,8 @@ scientifique. Tout le monde peut assister aux séances.
 * **Lieu :** Maison de la Vie Associative et Citoyenne du 13e
 * **Salle :** Salle Rouge A
 
-Merci de noter vos questions sur le pad :
-<https://etherpad.wikimedia.org/p/cplc-reading-club-2020-01-15>
+Merci de noter vos questions sur le [**document de
+notes**](https://docs.google.com/document/d/1g_i7us85y9pAi2wIuJpWXnNua6nI_ehD_bhoWCjKYlY/edit?usp=sharing).
 
 [Can We Reconcile French People with the Carbon Tax? Disentangling Beliefs from
 Preferences](http://faere.fr/pub/PolicyPapers/Douenne_Fabre_FAERE_PP2019.05.pdf)
