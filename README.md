@@ -1,3 +1,5 @@
+![](img/logo.png)
+
 # Club de lecture Citoyens pour le Climat
 
 Environ une fois par mois, le collectif [Citoyens pour le
